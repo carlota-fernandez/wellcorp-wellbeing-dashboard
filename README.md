@@ -8,4 +8,6 @@ This project analyzes the overall wellbeing of a corporate team using an interac
 - Business-focused insights
 
 ### 📊 Dashboard Preview
-[![WellCorp dashboard](wellcorp_dashboard.png)](https://public.tableau.com/app/profile/carlota.fernandez.ruiz/viz/WellCorp_CarlotaFernandezRuiz/Dashboardbienestar)
+[![wellcorp-wellbeing-dashboard](Wellcorp_dashboard.png)](https://public.tableau.com/app/profile/carlota.fernandez.ruiz/viz/WellCorp_CarlotaFernandezRuiz/Dashboardbienestar)
+
+**Note:** This project was developed as part of a Data Analytics Master at ISDI, using simulated data for educational purposes.
