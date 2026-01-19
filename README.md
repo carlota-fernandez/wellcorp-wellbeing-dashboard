@@ -1,2 +1,11 @@
-# wellcorp-wellbeing-dashboard
-Interactive dashboard analyzing overall employee wellbeing, combining physical health, sleep, nutrition and mental wellbeing data. Using time filters, analytical parameters and composite indices, it explores daily and monthly patterns, as well as weekday vs. weekend differences, to support data-driven decisions.
+## 🏥 WellCorp – Employee Wellbeing Dashboard
+
+This project analyzes the overall wellbeing of a corporate team using an interactive Tableau dashboard.
+
+- Group-level analysis and individual ranking
+- Date filters and analytical parameters
+- Composite wellbeing indices
+- Business-focused insights
+
+### 📊 Dashboard Preview
+[![WellCorp Dashboard](screenshots/wellcorp_dashboard.png)](https://public.tableau.com/app/profile/carlota.fernandez.ruiz/viz/WellCorp_CarlotaFernandezRuiz/Dashboardbienestar)
